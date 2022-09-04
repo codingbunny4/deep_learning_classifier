@@ -3,6 +3,7 @@
 ## Project Idea Title 1: Deep Learning on a public dataset
 #### Kaori Murakami
 
+Both the Jupyter notebook and the html version of it are included in this repository.
 
 ### Dataset
 Due to the size of the dataset (over 50,000 images) please download it directly from Kaggle
