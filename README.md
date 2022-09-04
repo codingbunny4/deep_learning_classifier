@@ -1,4 +1,4 @@
-**Bird Species Multiclass Classification (Deep Learning)**  
+
 Template: CM3015 Machine Learning and Neural Networks  
 Project Idea Title 1: Deep Learning on a public dataset  
 **Kaori Murakami**  
